@@ -10,7 +10,7 @@ permalink: /
 
 This site is a resource hub for Startups, offering tools, insights, and community support to drive your growth with Twilio.
 
-- [Startup Use Cases](/startups/use-cases): Discover how startups innovate with Twilio.
+- [Startup Use Cases]({{ site.url }}{{ site.baseurl }}/use-cases): Discover how startups innovate with Twilio.
 
 <br />Explore and grow with Twilio!
 
