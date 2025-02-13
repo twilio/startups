@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# AHOY! WELCOME TO THE TWILIO STARTUPS GUIDE
+# AHOY! WELCOME TO THE TWILIO STARTUPS GUIDE :wave:
 
 <br />Twilio’s first product roadmap was written on the back of a pizza box in 2007. We are rooted in startup culture and here to help you on your journey. 
 
