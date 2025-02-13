@@ -1,7 +1,7 @@
 ---
 title: /use-cases
 layout: page
-permalink: /startups/use-cases
+permalink: /use-cases/
 ---
 
 # How do Startups use Twilio?
