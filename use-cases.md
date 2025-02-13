@@ -4,12 +4,11 @@ layout: page
 permalink: /use-cases/
 ---
 
-# How do Startups use Twilio?
+# HOW DO STARTUPS USE TWILIO
 
-Think of the last time you got a text from your favorite delivery service, signed on securely to your banking app or received an email receipt from your last ecommerce purchase—chances are those interactions were powered by Twilio! 
+<br />Think of the last time you got a text from your favorite delivery service, signed on securely to your banking app or received an email receipt from your last ecommerce purchase—chances are those interactions were powered by Twilio! 
 
-<br />Here are 6 top use cases for Startups looking to integrate Twilio, along with corresponding repos to help you get started;
-
+Here are 6 top use cases for Startups looking to integrate Twilio, along with corresponding repos to help you get started;
 
 ## SMS Notifications and Alerts:
 
