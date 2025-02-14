@@ -12,5 +12,4 @@ This site is a resource hub for Startups, offering tools, insights, and communit
 
 - [Startup Use Cases]({{ site.url }}{{ site.baseurl }}/use-cases): Discover how startups innovate with Twilio.
 
-<br />Explore and grow with Twilio!
-
+<br />Press "t" to view this guide in terminal mode!
