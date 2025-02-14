@@ -1,0 +1,19 @@
+{
+  "name": "startups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node esbuild.config.js",
+    "dev": "node esbuild.config.js && bundle exec jekyll serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "0.25.0"
+  },
+  "dependencies": {
+    "@rajnandan1/termo": "^0.0.1"
+  }
+}
