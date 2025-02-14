@@ -1,8 +1,8 @@
 title: "Twilio Startups" 
 description: "A resource hub for Twilio Startups"
 
-url: "https://twilio.github.io"  # Your site URL
-baseurl: "/startups"               # Base URL for your project (leave it empty if it's a root-level site)
+url: "https://twilio.github.io"  
+baseurl: "/startups"              
 
 
 remote_theme: b2a3e8/jekyll-theme-console
