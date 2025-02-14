@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<meta http-equiv="Content-Security-Policy" content="
+    default-src 'none'; 
+    script-src 'self' https://cdn.jsdelivr.net; 
+    style-src 'self' https://fonts.googleapis.com; 
+    img-src 'self'; 
+    font-src 'self' https://fonts.gstatic.com; 
+    connect-src 'self'; 
+    media-src 'self'; 
+    object-src 'none'; 
+    child-src 'self'; 
+    form-action 'none'; 
+    base-uri 'self';
+  ">
+<meta http-equiv="X-XSS-Protection" content="1;mode=block" always>
+<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
+
+{%- include head.html -%}
+<script src="https://cdn.jsdelivr.net/gh/rajnandan1/termo/dist/termo.min.js"></script>
+
+<body>
+  <div class="container">
+
+    {%- include header.html -%}
+
+    <main>
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+    <script src="/assets/js/termo.js"></script>
+
+  </div>
+</body>
+
+</html>
